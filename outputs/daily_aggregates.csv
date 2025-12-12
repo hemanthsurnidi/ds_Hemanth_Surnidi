@@ -1,0 +1,2 @@
+date,trade_count,total_volume_usd,avg_trade_size_usd,median_trade_size_usd,avg_price,avg_pnl,median_pnl,win_rate,classification
+1970-01-01,211224,1191187442.46,5639.451210373822,597.0450000000001,11414.72334999376,48.74900079269401,0.0,0.4112648183918494,
