@@ -23,3 +23,14 @@ statistical comparisons, and trained a simple model to check if trader performan
 **Colab Link**  
 [Link](https://colab.research.google.com/drive/1LydW86sQO-GpA1ty_oD9inHxEdmREmpM?usp=sharing)
 
+**Dataset Links**
+The original CSV files are large, so they are not stored in this GitHub repository.
+You can download them from the official links below:
+
+- [Fear & Greed Index](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing)
+
+- [Historical Trader Data](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)
+
+
+
+
